@@ -1,1 +1,2 @@
-# CSC-253
+# CSC 253
+Kevin Coleman
