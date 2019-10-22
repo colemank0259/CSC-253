@@ -1,0 +1,6 @@
+E:\School Stuff\2019-2020 (FTCC)\Fall 2019\CSC 253 Buckwell\Buckwell HW\Hospital Charges\HospitalLibrary\bin\Debug\HospitalLibrary.dll
+E:\School Stuff\2019-2020 (FTCC)\Fall 2019\CSC 253 Buckwell\Buckwell HW\Hospital Charges\HospitalLibrary\bin\Debug\HospitalLibrary.pdb
+E:\School Stuff\2019-2020 (FTCC)\Fall 2019\CSC 253 Buckwell\Buckwell HW\Hospital Charges\HospitalLibrary\obj\Debug\HospitalLibrary.csprojAssemblyReference.cache
+E:\School Stuff\2019-2020 (FTCC)\Fall 2019\CSC 253 Buckwell\Buckwell HW\Hospital Charges\HospitalLibrary\obj\Debug\HospitalLibrary.csproj.CoreCompileInputs.cache
+E:\School Stuff\2019-2020 (FTCC)\Fall 2019\CSC 253 Buckwell\Buckwell HW\Hospital Charges\HospitalLibrary\obj\Debug\HospitalLibrary.dll
+E:\School Stuff\2019-2020 (FTCC)\Fall 2019\CSC 253 Buckwell\Buckwell HW\Hospital Charges\HospitalLibrary\obj\Debug\HospitalLibrary.pdb
