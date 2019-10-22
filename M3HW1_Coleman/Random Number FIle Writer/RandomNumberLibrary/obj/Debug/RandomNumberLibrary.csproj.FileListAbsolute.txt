@@ -1,0 +1,6 @@
+E:\School Stuff\2019-2020 (FTCC)\Fall 2019\CSC 253 Buckwell\Buckwell HW\Random Number FIle Writer\RandomNumberLibrary\bin\Debug\RandomNumberLibrary.dll
+E:\School Stuff\2019-2020 (FTCC)\Fall 2019\CSC 253 Buckwell\Buckwell HW\Random Number FIle Writer\RandomNumberLibrary\bin\Debug\RandomNumberLibrary.pdb
+E:\School Stuff\2019-2020 (FTCC)\Fall 2019\CSC 253 Buckwell\Buckwell HW\Random Number FIle Writer\RandomNumberLibrary\obj\Debug\RandomNumberLibrary.csprojAssemblyReference.cache
+E:\School Stuff\2019-2020 (FTCC)\Fall 2019\CSC 253 Buckwell\Buckwell HW\Random Number FIle Writer\RandomNumberLibrary\obj\Debug\RandomNumberLibrary.csproj.CoreCompileInputs.cache
+E:\School Stuff\2019-2020 (FTCC)\Fall 2019\CSC 253 Buckwell\Buckwell HW\Random Number FIle Writer\RandomNumberLibrary\obj\Debug\RandomNumberLibrary.dll
+E:\School Stuff\2019-2020 (FTCC)\Fall 2019\CSC 253 Buckwell\Buckwell HW\Random Number FIle Writer\RandomNumberLibrary\obj\Debug\RandomNumberLibrary.pdb
